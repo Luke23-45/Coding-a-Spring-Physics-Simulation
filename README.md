@@ -108,7 +108,10 @@ This project uses `make` for building. To build the project, run the following c
     - Springs are drawn as lines between points.
 
 ---
+## Demo Video
+Check out the project demo video on YouTube: https://www.youtube.com/watch?v=McOcbGHyAWA
 
+---
 ## License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code.
