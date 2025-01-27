@@ -1,4 +1,3 @@
-
 # 2D Spring Simulation
 
 This project implements a **2D Spring Simulation** using SDL2. It visualizes the behavior of points connected by springs, with physics that includes gravity, spring forces, and damping. The user can interact with the simulation by adding/removing points and springs or applying forces dynamically.
@@ -67,7 +66,6 @@ This project uses `make` for building. To build the project, run the following c
 
 ---
 
----
 ## How to Use
 
 1. **Start the simulation:**  
@@ -111,8 +109,6 @@ This project uses `make` for building. To build the project, run the following c
 
 ---
 
----
-
 ## License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code.
@@ -121,4 +117,4 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 ## Acknowledgments
 
 - SDL2 for graphics rendering.
-- The concept of spring simulations from classical mechanics.
+- The concept of spring simulations is based on classical mechanics.
