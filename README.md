@@ -39,7 +39,7 @@ This project uses `make` for building. To build the project, run the following c
    ```
 4. Run the executable:
    ```bash
-   ./spring_simulation
+   ./main
    
    ```
 5. In window:
